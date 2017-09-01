@@ -1,6 +1,3 @@
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
-
 public class ReachRunner{
 	
 	static int equip = 0;
@@ -29,7 +26,7 @@ public class ReachRunner{
  static boolean HealthB = true;
  
  
- public class movement implements KeyListener {
+ 
 	 
  
  		
